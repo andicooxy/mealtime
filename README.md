@@ -5,7 +5,7 @@ This is application reminds developers to eat on time, and also suggest's meal f
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:wolox/<reponame>.git
+git clone https://github.com/andicooxy/mealtime.git
 ```
 
 ## Configuration
